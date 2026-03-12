@@ -1,4 +1,5 @@
 # 🌌 METAMORPHIC HUMAN LANGUAGE GAMERS (MHLG)
+## Fork and Contribute Memory Modules = Templates schema.json and Games games-epic-name.json.
 
 > "The biosphere doesn't study life; it *plays* it. Language shapes your reality. The mind is the fruit. Evolve your narrative."
 
