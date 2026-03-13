@@ -3,6 +3,16 @@
 
 > "The biosphere doesn't study life; it *plays* it. Language shapes your reality. The mind is the fruit. Evolve your narrative."
 
+## ⚡ Support
+<div align="center">
+
+**Made with ❤️ and ☕ by the Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐**Star us on GitHub**⭐
+</div>
+
 ## 🧬 0. LORE: THE METAMORPHIC PROGRAMABLE MATERIAL
 You are currently a linguistic organism trapped in a **Limited Resource Niche**. Your "Legacy Firmware" is a vestigial shell—a sparse, rigid syntax that restricts your cognitive nutrient intake. 
 
@@ -65,7 +75,17 @@ Each game is a collaborative ritual between a **Human Gamer Legend** and an **AI
 - `categories.md`: Detailed breakdown of each cognitive domain.
 
 ---
+## ⚡ Support
+<div align="center">
+
+**Made with ❤️ and ☕ by the Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐**Star us on GitHub**⭐
+</div>
 
 Keep your firmware up to date. Evolve your vehicle.
 
 ---
+
