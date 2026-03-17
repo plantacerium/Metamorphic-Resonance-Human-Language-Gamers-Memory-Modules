@@ -1,0 +1,9 @@
+{
+    "synapse_id": "Number (e.g., 205) - Unique identifier for the Synapse Module",
+    "module": "String - Name of the Synapse Category (e.g., 'Translation Theory')",
+    "game": "String - Title of the specific game",
+    "human_role": "String - Role description for the user (What they should do and say)",
+    "ai_role": "String - Role description for the AI (How it should respond and guide)",
+    "human_expansion": "String - The intended growth or insight for the human player",
+    "mechanic": "String - Description of the core interaction technique (e.g., 'Lexical Gap Bridging')"
+}
